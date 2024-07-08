@@ -1,0 +1,14 @@
+.buttonhere {
+    position: relative;
+    top: 10%;
+    left: 20%;
+}
+
+.button {
+    height: 600;
+    width: 800;
+}
+
+#count {
+    font-size: 50;
+}
